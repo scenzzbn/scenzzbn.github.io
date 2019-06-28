@@ -149,7 +149,7 @@
             "showText": true,
             "showButtons": false,
             "showArrow": false,
-            "contentAlign": "right",
+            "contentAlign": "center",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
             "parallax": true,
@@ -173,7 +173,7 @@
           "_anchor": "header4-1",
           "_styles": {
             ".mbr-section-lead": {
-              "text-align": "right"
+              "text-align": "center"
             },
             ".mbr-section-lead SPAN": {
               "font-family": "'Lato', sans-serif",
@@ -183,6 +183,9 @@
             ".mbr-section-title SPAN": {
               "font-family": "'Merriweather', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
             }
           }
         },
@@ -231,7 +234,7 @@
             }
           },
           "_params": {
-            "showMeta": true,
+            "showMeta": false,
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgColor": "#fff"
@@ -246,14 +249,14 @@
         },
         {
           "_params": {
-            "showBullets": true,
+            "showBullets": false,
             "fullWidth": false,
-            "spacing": 0,
+            "spacing": "0",
             "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingBottom": "0",
             "filterBgColor": false,
-            "bgColor": "#FFFFFF",
-            "showText": false,
+            "bgColor": "#000000",
+            "showText": true,
             "filter": false,
             "images": [
               {
@@ -265,7 +268,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/adults-airport-architectural-design-301930-2000x1333-800x533.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here",
+                "caption": "AIRPORTS",
                 "active": true
               },
               {
@@ -277,7 +280,8 @@
                 "thumb": "@PROJECT_PATH@/assets/images/architecture-buildings-chairs-635041-2000x1333-800x533.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here"
+                "caption": "HOTELS",
+                "active": false
               },
               {
                 "tags": "Creative",
@@ -288,7 +292,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/casual-close-up-colors-1954524-1-2000x1333-800x533.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here"
+                "caption": "GYM"
               },
               {
                 "tags": "Animated",
@@ -299,7 +303,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/bar-bottles-commerce-2079438-1280x853-800x533.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here"
+                "caption": "RETAILS"
               },
               {
                 "tags": "Awesome",
@@ -310,7 +314,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/costumer-care-2000x1334-800x534.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here"
+                "caption": "HOSPITAL"
               },
               {
                 "tags": "Beautiful",
@@ -321,7 +325,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/comfort-curtain-cushion-2029663-2000x1333-800x533.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here"
+                "caption": "HOME"
               },
               {
                 "tags": "Responsive",
@@ -332,7 +336,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/event-scent-2000x1334-800x534.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here"
+                "caption": "EVENT"
               },
               {
                 "tags": "Animated",
@@ -343,7 +347,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/boutique-clothes-indoors-264554-1440x960-800x533.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here"
+                "caption": "OFFICE"
               }
             ]
           },
@@ -382,7 +386,7 @@
           },
           "title": "Scent is Another Way of Customer Care",
           "text": "<p>Article header with background image and parallax effect.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ASK FOR A QOUTE</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ASK FOR A QOUTE</a>",
           "_tags": [
             "Theme"
           ],
