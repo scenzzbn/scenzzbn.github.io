@@ -42,7 +42,7 @@
     "noImageResize": "",
     "gdpr": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>.",
     "google-analytics": "",
-    "uniqCompNum": 10,
+    "uniqCompNum": 11,
     "versionPublish": "4.10.3",
     "screenshot": "screenshot.png"
   },
@@ -151,7 +151,7 @@
             "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/branch-conifer-2-1440x1126.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -160,8 +160,8 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": "0.5"
+            "overlayColor": "#41a85f",
+            "overlayOpacity": "0.2"
           },
           "title": "<span style=\"font-weight: normal;\">Scent and aroma marketing may be the most powerful next-gen tool of influence.</span>",
           "text": "<span style=\"font-style: normal;\">Smell. Isn’t it amazing how a dash of invisible scent molecules is able to transport you right back into a childhood visit to your grandparents? Or how the delicious aroma of freshly baked bread seems to lure you into that little bakery around the corner. And everyone recognizes that typical smell emanating from the roasted coffee bean.</span>",
@@ -178,7 +178,7 @@
             ".mbr-section-lead SPAN": {
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "font-size": "21px"
+              "font-size": "20px"
             },
             ".mbr-section-title SPAN": {
               "font-family": "'Merriweather', serif",
@@ -193,19 +193,28 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#efefef"
+            },
+            ".lead": {
+              "color": "#cccccc"
+            },
+            ".lead P": {
+              "text-align": "left"
             }
           },
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButton": false,
+            "showButton": true,
             "paddingTop": "2",
             "paddingBottom": "3",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/desert.jpg",
             "parallax": false,
             "bgColorRadio": false,
-            "bgColor": "#F2F2F2",
+            "bgColor": "#c1c1c1",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -216,7 +225,7 @@
           },
           "title": "ABOUT",
           "text": "<p>We are a fragrance and ambient scent marketing and a scent diffuser supplier. We are a small and low-key business but we are able to cater your specific needs! Let us handle the to-do list while you rest assured - Contact us today to get started.</p><p>We provide scent diffuser machines, HVAC electric diffuser fragrance oil, essential oil and odor control products to hotels, offices, retails, hospitals, gym, spas and more.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
           ],
@@ -373,7 +382,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/desert.jpg",
-            "parallax": true,
+            "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
             "bgVideoRadio": false,

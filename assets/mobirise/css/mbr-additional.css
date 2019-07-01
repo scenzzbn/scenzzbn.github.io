@@ -527,7 +527,7 @@ section.form .container {
 }
 #header4-1 .mbr-section-lead SPAN {
   font-family: 'Lato', sans-serif;
-  font-size: 21px;
+  font-size: 20px;
 }
 #header4-1 .mbr-section-title SPAN {
   font-family: 'Merriweather', serif;
@@ -538,6 +538,15 @@ section.form .container {
 #msg-box8-3 .mbr-section-title,
 #msg-box8-3 p {
   color: #fff;
+}
+#msg-box8-3 .mbr-section-title {
+  color: #efefef;
+}
+#msg-box8-3 .lead {
+  color: #cccccc;
+}
+#msg-box8-3 .lead P {
+  text-align: left;
 }
 #header3-6 .mbr-section-title,
 #header3-6 .mbr-section-subtitle {
