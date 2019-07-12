@@ -754,7 +754,7 @@ section.form .container {
 }
 #menu-g .link[aria-expanded="true"],
 #menu-g .dropdown-item[aria-expanded="true"] {
-  color: #cccccc!important;
+  color: #efefef!important;
 }
 #header3-n .mbr-section-title,
 #header3-n .mbr-section-subtitle {
@@ -823,7 +823,7 @@ section.form .container {
 }
 #menu-h .link[aria-expanded="true"],
 #menu-h .dropdown-item[aria-expanded="true"] {
-  color: #cccccc!important;
+  color: #efefef!important;
 }
 #header3-m .mbr-section-title,
 #header3-m .mbr-section-subtitle {
