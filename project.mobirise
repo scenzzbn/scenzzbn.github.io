@@ -6,10 +6,10 @@
       "name": "mobirise3",
       "title": "Mobirise3",
       "styling": {
-        "primaryColor": "#cccccc",
-        "secondaryColor": "#cccccc",
+        "primaryColor": "#efefef",
+        "secondaryColor": "#efefef",
         "successColor": "#efefef",
-        "infoColor": "#c1c1c1",
+        "infoColor": "#efefef",
         "warningColor": "#f3c649",
         "dangerColor": "#bfcecb",
         "titleFont": "Montserrat",
