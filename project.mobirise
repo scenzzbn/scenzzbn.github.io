@@ -809,7 +809,7 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">DIFFUSER</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">ESSENTIAL OILS</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">FRAGRANCE OIL</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">DIFFUSER</a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">ESSENTIAL OILS</a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">FRAGRANCE OIL</a>",
           "_tags": [
             "Theme"
           ],
