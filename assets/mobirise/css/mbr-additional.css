@@ -685,7 +685,7 @@ section.form .container {
 }
 #menu-f .link[aria-expanded="true"],
 #menu-f .dropdown-item[aria-expanded="true"] {
-  color: #cccccc!important;
+  color: #efefef!important;
 }
 #header3-q .mbr-section-title,
 #header3-q .mbr-section-subtitle {

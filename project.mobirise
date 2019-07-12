@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "scenzzbn",
-    "currentPage": "page4.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -724,7 +724,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#cccccc!important"
+              "color": "#efefef!important"
             }
           },
           "_params": {
@@ -807,7 +807,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#cccccc"
+            "bgColor": "#c1c1c1"
           },
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">DIFFUSER</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">ESSENTIAL OILS</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">FRAGRANCE OIL</a>",
           "_tags": [
@@ -954,7 +954,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#cccccc"
+            "bgColor": "#c1c1c1"
           },
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">DIFFUSER</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">ESSENTIAL OILS</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">FRAGRANCE OIL</a>",
           "_tags": [
@@ -1094,7 +1094,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#cccccc"
+            "bgColor": "#c1c1c1"
           },
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">DIFFUSER</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">ESSENTIAL OILS</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">FRAGRANCE OIL</a>",
           "_tags": [
