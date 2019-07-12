@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "scenzzbn",
-    "currentPage": "page4.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -45,7 +45,7 @@
     "noImageResize": "",
     "gdpr": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>.",
     "google-analytics": "",
-    "uniqCompNum": 23,
+    "uniqCompNum": 29,
     "versionPublish": "4.10.5",
     "screenshot": "screenshot.png"
   },
@@ -762,6 +762,59 @@
           ],
           "_name": "menu",
           "_anchor": "menu-f"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "FRAGRANCE OIL",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-q"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "DIFFUSER",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-s"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">DIFFUSER</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">ESSENTIAL OILS</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">FRAGRANCE OIL</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-r"
         }
       ]
     },
@@ -856,6 +909,59 @@
           ],
           "_name": "menu",
           "_anchor": "menu-g"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "FRAGRANCE OIL",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-n"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "ESSENTIAL OIL",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-p"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">DIFFUSER</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">ESSENTIAL OILS</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">FRAGRANCE OIL</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-o"
         }
       ]
     },
@@ -912,7 +1018,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#000000!important"
+              "color": "#cccccc!important"
             }
           },
           "_params": {
