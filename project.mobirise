@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "scenzzbn",
-    "currentPage": "page2.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -835,13 +835,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#27282b"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#27282b"
             },
             ".link, .dropdown-item": {
-              "color": "#000000"
+              "color": "#27282b"
             },
             ".link": {
               "font-size": "0.75rem"
@@ -862,7 +862,7 @@
               "background": "#efefef"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#27282b",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -872,7 +872,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#efefef!important"
+              "color": "#000000!important"
             }
           },
           "_params": {
@@ -957,7 +957,7 @@
             "paddingBottom": 1,
             "bgColor": "#c1c1c1"
           },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">DIFFUSER</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">ESSENTIAL OILS</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">FRAGRANCE OIL</a>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"page2.html#header3-q\" data-toolbar=\"-mbrBtnMove\">DIFFUSER</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">ESSENTIAL OILS</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">FRAGRANCE OIL</a>",
           "_tags": [
             "Theme"
           ],
@@ -982,13 +982,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#27282b"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#27282b"
             },
             ".link, .dropdown-item": {
-              "color": "#000000"
+              "color": "#27282b"
             },
             ".link": {
               "font-size": "0.75rem"
@@ -1009,7 +1009,7 @@
               "background": "#efefef"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#27282b",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -1019,7 +1019,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#efefef!important"
+              "color": "#000000!important"
             }
           },
           "_params": {
@@ -1097,7 +1097,7 @@
             "paddingBottom": 1,
             "bgColor": "#c1c1c1"
           },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">DIFFUSER</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">ESSENTIAL OILS</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">FRAGRANCE OIL</a>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">DIFFUSER</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">ESSENTIAL OILS</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">FRAGRANCE OIL</a>",
           "_tags": [
             "Theme"
           ],
